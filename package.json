@@ -5,7 +5,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/onderceylan/cordova-plugin-wkwebview-inputfocusfix"
+    "url": "git+https://github.com/uofa/cordova-plugin-wkwebview-inputfocusfix"
   },
   "name": "cordova-plugin-wkwebview-inputfocusfix",
   "version": "1.0.4",

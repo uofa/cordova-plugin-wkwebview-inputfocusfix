@@ -12,8 +12,6 @@ NS_ASSUME_NONNULL_BEGIN
     if (![self.webView isKindOfClass:WKWebView.class])
         return;
 
-    //WKWebView *wkWebView = (WKWebView *) self.webView;
-    
     [self keyboardDisplayDoesNotRequireUserAction];
 }
 
