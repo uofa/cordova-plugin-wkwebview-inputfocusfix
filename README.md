@@ -6,11 +6,11 @@ Add this to your `package.json`:
 ```
 {
   "dependencies": {
-    "cordova-plugin-wkwebview-inputfocusfix": "git+https://github.com/uofa/cordova-plugin-wkwebview-inputfocusfix"
+    "cordova-plugin-wkwebview-inputfocusfix-ios13": "git+https://github.com/uofa/cordova-plugin-wkwebview-inputfocusfix-ios13"
   },
   "cordova": {
     "plugins": {
-      "cordova-plugin-wkwebview-inputfocusfix": {}
+      "cordova-plugin-wkwebview-inputfocusfix-ios13": {}
     },
   }
 }
